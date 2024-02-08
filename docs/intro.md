@@ -5,7 +5,7 @@ slug: "/"
 
 # Introdução
 
-Olá, eu sou o **Guilherme F. Linhares**, estudante de Engenharia de Computação no Instituto de Tecnologia e Liderança (Inteli). Atualmente, estou no 5º semestre do curso e estou em busca de oportunidades para desenvolver minhas habilidades e conhecimentos na área de tecnologia.
+Olá, eu sou o **Guilherme Ferreira Linhares**, estudante de Engenharia de Computação no Instituto de Tecnologia e Liderança (Inteli). Atualmente, estou no 5º semestre do curso e estou em busca de oportunidades para desenvolver minhas habilidades e conhecimentos na área de tecnologia.
 
 ## Sobre mim
 
